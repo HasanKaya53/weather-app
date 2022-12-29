@@ -8,6 +8,11 @@
   transform: translateY(-50%);
 }
 
+.ios body{
+  --ion-background-color: #red;
+}
+
+
 #container strong {
   font-size: 20px;
   line-height: 26px;
@@ -25,3 +30,13 @@
 #container a {
   text-decoration: none;
 }
+
+.cardStyle{
+  border-radius: 20px;
+  --ion-background-color:#3B7E88;
+}
+
+span{
+  color:white;font-weight: 300;
+}
+
